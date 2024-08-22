@@ -17,4 +17,4 @@ You can find my CV here:
 [Xin's Curriculum Vitae](../files/XIN_Resume.pdf).
 
 ***
-[Email](mailto:zx370421@163.com) / [Github](https://github.com/Xin571) / [Wechat:zhaoxin370421](../images/XIN.jpg)
+[Email](mailto:zx370421@163.com) / [Github](https://github.com/Xin571) / [Wechat:zhaoxin370421](../images/wechat.jpg)
