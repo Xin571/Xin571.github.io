@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 I'm an undergraduate student from [University of Waterloo](https://uwaterloo.ca/)My research interest includes Quantum Computing, Quantum Algorithm and Simulator.
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum Vitae.pdf).
-[Email(mailto:Xx@stu.pku.edu.cn) / [Githubl(https:/github.com/QiuDi233) / [Wechat,(..images/wechat.jpg) / [CSDNl(htps:/blog.csdn.net/gd1813100174?spm=1000.2115.3001.5343)
+You can find my CV here: [Xin's Curriculum Vitae](../assets/Curriculum Vitae.pdf).
+[Email](mailto:zx370421@163.com) / [Github](https:/github.com/Xin571) / [Wechat](zhaoxin370421)
 
 A data-driven personal website
 ======
