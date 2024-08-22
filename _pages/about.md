@@ -14,7 +14,7 @@ My research interests include **Quantum Computing**, **Quantum Algorithm**, and 
 
 You can find my CV here: 
 
-[Xin's Curriculum Vitae](files/XIN_Resume.pdf).
+[Xin's Curriculum Vitae](files/XIN_Resume .pdf).
 
 ***
-[Email](mailto:zx370421@163.com) / [Github](https://github.com/Xin571) / [Wechat:zhaoxin370421](.../images/contact/XIN.jpg)
+[Email](mailto:zx370421@163.com) / [Github](https://github.com/Xin571) / [Wechat:zhaoxin370421](images/contact/XIN.jpg)
